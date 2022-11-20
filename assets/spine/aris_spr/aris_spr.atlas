@@ -83,7 +83,7 @@ repeat: none
   index: -1
 11
   rotate: true
-  xy: 125, 161
+  xy: 535, 100
   size: 110, 74
   orig: 110, 74
   offset: 0, 0
@@ -93,6 +93,13 @@ repeat: none
   xy: 2, 395
   size: 121, 114
   orig: 121, 114
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 125, 150
+  size: 120, 71
+  orig: 120, 71
   offset: 0, 0
   index: -1
 aris
